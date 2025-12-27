@@ -1,4 +1,4 @@
-# Hi, I'm Keith 👋
+# Hi, I'm Keith
 
 Backend / Systems-focused Software Engineer  
 Software Engineer Intern @ L3Harris Technologies (Summer 2026)  
@@ -6,7 +6,7 @@ Computer Science @ Rutgers University–New Brunswick (Honors College, Class of 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a backend- and systems-oriented software engineer with a strong interest in building **reliable, scalable systems** and understanding software from the ground up. I enjoy working close to infrastructure, data, and APIs, and I’m constantly looking for opportunities to deepen my systems knowledge.
 
@@ -14,7 +14,7 @@ I value clean design, strong abstractions, and learning by building. Beyond code
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
 - C, C++, Python, JavaScript, TypeScript, SQL  
