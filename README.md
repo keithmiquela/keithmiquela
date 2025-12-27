@@ -27,7 +27,7 @@ I value clean design, strong abstractions, and learning by building. Beyond code
 **Databases**  
 - PostgreSQL, MySQL, MSSQL, MongoDB  
 
-**Frontend (when needed)**  
+**Frontend**  
 - React, Vite, TailwindCSS  
 
 **Cloud & DevOps**  
