@@ -4,6 +4,8 @@ Backend / Systems-focused Software Engineer
 Software Engineer Intern @ L3Harris Technologies (Summer 2026)  
 Computer Science @ Rutgers University–New Brunswick (Honors College, Class of 2027)
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/keith-miquela)
+
 ---
 
 ## About Me
